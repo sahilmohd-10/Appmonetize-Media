@@ -1,36 +1,68 @@
-# AI Dataset - Appmonetize Media
+# 📊 AI Dataset – Appmonetize Media
 
-## Overview
-
-This repository contains a comprehensive AI dataset with **1000+ records** compiled for analysis and insights related to AI technologies and trends. The dataset is maintained as part of work conducted under **Appmonetize Media**.
-
-## Dataset Information
-
-- **File**: `sahil_final.xlsx`
-- **Records**: 1000+ AI-related entries
-- **Format**: Excel (.xlsx)
-- **Purpose**: Analysis and research of AI trends and data patterns
-
-## About This Dataset
-
-The data contained in this repository represents research and analysis conducted during freelance work with Appmonetize Media. This dataset contains confidential and proprietary information that must be handled with appropriate care and discretion.
-
-### Important Notice
-
-⚠️ **Dashboard Analysis Not Available**: A comprehensive dashboard for visualization and analysis of this dataset cannot be shared publicly due to the confidential nature of the work performed under Appmonetize Media. The data is part of proprietary client work and must remain secure to maintain business confidentiality and client trust.
-
-For access to dashboard analytics or further inquiries regarding this dataset, please contact directly.
-
-## Data Confidentiality
-
-This dataset is confidential and proprietary. All data contained herein is subject to confidentiality agreements and should not be distributed or used without explicit authorization.
-
-## License
-
-⚖️ **Proprietary** - This dataset is confidential and for authorized use only under Appmonetize Media terms and conditions.
+## 🔍 Overview
+This repository contains an AI dataset with **1000+ records** focused on AI tools, technologies, and industry trends. The dataset was compiled and analyzed as part of freelance work with **Appmonetize Media**.
 
 ---
 
-**Last Updated**: April 2026  
-**Maintained By**: Sahil  
-**Organization**: Appmonetize Media
+## 📁 Dataset Information
+- **File Name**: `sahil_final.xlsx`
+- **Records**: 1000+ entries
+- **Format**: Excel (.xlsx)
+- **Domain**: AI tools and technology trends
+
+---
+
+## 🎯 Project Objective
+The goal of this project is to analyze AI tools data to identify:
+- Emerging trends in AI technologies  
+- Distribution of tools across categories  
+- Growth patterns in different AI domains  
+
+---
+
+## 🛠️ Tools & Technologies Used
+- Microsoft Excel (Data Cleaning, Analysis, Visualization)  
+- Data Processing Techniques (handling missing values, structuring data)  
+
+---
+
+## ⚙️ Work Done
+- Cleaned and organized raw dataset for analysis  
+- Removed inconsistencies and duplicate entries  
+- Categorized AI tools based on functionality  
+- Performed exploratory data analysis (EDA)  
+- Generated insights on usage patterns and category distribution  
+
+---
+
+## 📈 Key Insights
+- Significant growth observed in **Generative AI tools**  
+- Productivity and automation tools dominate the dataset  
+- Several niche AI categories show emerging potential  
+
+---
+
+## 📊 Dashboard & Visualization
+⚠️ The **dashboard and detailed visualizations are confidential** and cannot be shared publicly, as they were developed for client-specific analysis under Appmonetize Media.  
+
+---
+
+## 🔒 Data Handling & Confidentiality
+Some elements of the dataset have been **partially masked or limited** to ensure compliance with client confidentiality agreements.  
+The shared data is intended for demonstration of analysis skills only.
+
+---
+
+## 📎 Project Link
+🔗 https://github.com/sahilmohd-10/ai-tools-data-extraction  
+
+---
+
+## 📅 Last Updated
+April 2026  
+
+---
+
+## 👤 Maintained By
+**Sahil**
